@@ -4,7 +4,8 @@
 
 - 日時
   - 毎月第2水曜日開催
-  - 18:30 ~ 19:30
+  - 18:00 OPEN
+  - 18:30 START
 - 場所
   - 某社オフィス7F会議室のどこか
 - 内容:
@@ -21,6 +22,7 @@
   - ex: [tech_talk_20170308](https://github.com/axxxxs2011/tech_talks/wiki/tech_talk_20170308)
 3. 発表したい人にwikiを更新してもらう
   - 調整が必要な場合はissueなどで
-4. 原則前日までに枠はfixする
-5. 資料へのリンクをwikiに追加する
-6. issueをcloseする
+4. 参加できる人はissueのassigneesに自分を追加する
+5. 原則前日までに枠はfixする
+6. 資料へのリンクをwikiに追加する
+7. issueをcloseする
