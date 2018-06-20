@@ -1,5 +1,7 @@
 # Tech talks
 
+[![Join the chat at https://gitter.im/axxxxs2011/tech_talks](https://badges.gitter.im/axxxxs2011/tech_talks.svg)](https://gitter.im/axxxxs2011/tech_talks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 月一の技術共有会。
 
 - 日時
